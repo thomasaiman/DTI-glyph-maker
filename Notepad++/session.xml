@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1272" startPos="130" endPos="130" selMode="0" lang="Shell" encoding="-1" filename="C:\Users\aimantj\Desktop\DTI_glyph_maker\glyphs.slurm" backupFilePath="" originalFileLastModifTimestamp="1502505199" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1272" startPos="494" endPos="494" selMode="0" lang="Matlab" encoding="-1" filename="C:\Users\aimantj\Desktop\DTI_glyph_maker\DTI_glyphs_wrapper_slurm.m" backupFilePath="" originalFileLastModifTimestamp="1502505358" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="757935405" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="145" xOffset="0" scrollWidth="1272" startPos="5951" endPos="5951" selMode="0" lang="Matlab" encoding="-1" filename="C:\Users\aimantj\Desktop\DTI_glyph_maker\codefiles\DTI_glyphs_v10.m" backupFilePath="" originalFileLastModifTimestamp="1502505173" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
